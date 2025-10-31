@@ -33,9 +33,23 @@ La estrategia en general de toda la lógica es hacer varias MDDs en vez de solo 
 Para poder probar el proyecto se necesita tener instalado **Stack**. Lo primero que hay que hacer es estar en la carpeta Raiz, donde se encuentra 'stack.yaml' y 
 'package.yaml'.
 
-Para inicializar todo, podemos hacer ´fuck´ 
+Para inicializar todo, podemos hacer
 ```
 stack build
 ```
 
-Luego, para probar el programa
+Luego, para probar el programa, debemos ejecutar 
+```
+stack run
+```
+
+Lo que el programa hará será analizar el contenido del archivo `implementacion.imp` que contiene el "código" que se analizará. Este archivo por
+defecto ya tiene una implementación hecha por nosotros, pero se puede modificar como el usuario lo desee si sigue las reglas del lenguaje IMP para evitar errores
+o analisis incorrectos. 
+
+La salida del programa es la lista de todos los tokens encontrados en la implementación de entrada.
+
+Para poder ejecutar las pruebas (Nos faltas eso), se tiene que ejecutar
+```
+stack test
+```
