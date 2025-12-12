@@ -130,7 +130,14 @@ Filogenias/
 |   |   |   |
 |   |   |   | - SEQ2.mdsx
 |   |   |   | - SEQ2_tree.mtsx
+|
+| - Readme.md (Este archivo)
 ```
+
+Las carpetas *LWS*, *RH1*, *SWS* son para los genes, y *Ancestor Analysis* es la que contiene el análisis de ancestros para todos en general. \
+
+Entonces, si picas LWS, adentro contiene dos, LWS Exon 1 Amplicon y LWS Exons. Cuando picas cualquiera de estas dos, tienen los archivos un Caption Tree, que es lo que genera el programa cuando haces el árbol. Más bien, tiene un archivo MEG, que es el archivo para abrir la secuencia, tiene un PNG asociado al árbol para cada uno de estos, tiene un archivo TXT, que es un archivo donde tiene las secuencias en crudo, tiene un PDF, que siempre termina en Model Analysis, que tiene que ver con el análisis de AICO, y tiene una carpeta que se llama Sessions. En la carpeta Sessions están dos archivos para MEG, directamente para MEG, para abrir o bien cargar ya la secuencia alineada y todo, o bien abrir los árboles. Lo mismo pasa, por ejemplo, para RH1, nada más que en RH1 solo tenemos una carpeta, que es la de RH1 Exons, y la misma historia, lo de Sessions, Caption Tree, RH1, el archivo MEG, el TXT, el PNG y el PDF. Y luego en SWS tienes dos carpetas, SWS Exons y SWS1, para Baja, Intrones, Exones, y tienen la misma estructura todos. Ancestral Analysis, adentro de esta carpeta está LWS, RH1 y SWS. Estas son carpetas. Cada uno de estos tiene un archivo llamado Ancestral States Details, que son como un detalle del análisis ancestral. Changes List, que es una lista de cambios. Dos PNG, que son los árboles de las reconstrucciones ancestrales, uno con número y otro sin número, por eso uno está así y luego otro que dice barra baja Numbers. Most Probable Sequences, un archivo de secuencias más probables, y un archivo de estados ancestrales. Y así es para todas.
+
 
 La estructura que sigue este proyecto es la siguiente:  \
 
