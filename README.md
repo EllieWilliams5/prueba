@@ -16,10 +16,18 @@ hhu
 - f
 
 ```
-|
-| - dokkd
-|    |
-|    |
+Filogenias/
+| 
+| - Ancestors Analysis/  (Cuidado con estas, fueron todas hechas sobre el arbol de LWS)
+|   |
+|   | - LWS/
+|   |   |
+|   |   | - Ancestral-states-details.txt
+|   |   | - Changes List.txt
+|   |   | - LWSexons_ancestors.png
+|   |   | - LWSexons_ancestors_numbers.png
+|   |   | - Most Probable Sequences.txt
+|   |   | - site-41-ancestral-states.txt
 ```
 
 La estructura que sigue este proyecto es la siguiente:  \
