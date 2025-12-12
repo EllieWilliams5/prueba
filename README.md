@@ -15,6 +15,13 @@ hhu
 - Hernández Amaro María Fernanda \
 - f
 
+```
+|
+| - dokkd
+|    |
+|    |
+```
+
 La estructura que sigue este proyecto es la siguiente:  \
 
 |-- docs/ \
