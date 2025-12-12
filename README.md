@@ -1,6 +1,7 @@
 # Cómo usar el Analizador Léxico IMP
 
 ## Puto
+## Integrantes
 La estructura que sigue este proyecto es la siguiente:  \
 
 |-- docs/ \
