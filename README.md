@@ -116,6 +116,20 @@ Filogenias/
 |   |   |   |
 |   |   |   | - SEQ1.mdxs
 |   |   |   | - SWS1_EXONSINTRONS_TREE.mtsx
+|   |
+|   |
+|   | - SWS_Exons/
+|   |   |
+|   |   | - Caption_tree.txt
+|   |   | - SEQ2.meg
+|   |   | - SEQ2.txt
+|   |   | - SWS1Exons_MODELANALYSIS.pdf
+|   |   | - SWS1Exons_tree.png
+|   |   |  
+|   |   | - Sessions/
+|   |   |   |
+|   |   |   | - SEQ2.mdsx
+|   |   |   | - SEQ2_tree.mtsx
 ```
 
 La estructura que sigue este proyecto es la siguiente:  \
