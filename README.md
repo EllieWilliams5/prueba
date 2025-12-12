@@ -10,6 +10,11 @@ hhu
 **Ayud. Lab. :** Jazmín de Jesús Santillán Manjarrez
 
 
+## Integrantes del equipo
+- Caballero Rosas Santiago \
+- Hernández Amaro María Fernanda \
+- f
+
 La estructura que sigue este proyecto es la siguiente:  \
 
 |-- docs/ \
