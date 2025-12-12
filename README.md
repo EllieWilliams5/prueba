@@ -28,6 +28,46 @@ Filogenias/
 |   |   | - LWSexons_ancestors_numbers.png
 |   |   | - Most Probable Sequences.txt
 |   |   | - site-41-ancestral-states.txt
+|   |
+|   | - RH1/
+|   |   |
+|   |   | - Ancestral States.txt
+|   |   | - Ancestral-states-details.txt
+|   |   | - Changes List.txt
+|   |   | - Most Probable Sequences.txt
+|   |   | - RH1 Exons.mtsx
+|   |   | - RH1 Exons_ancestors.png
+|   |   | - RH1 Exons_ancestors_numbers.png
+|   |
+|   | - SWS1/
+|   |   |
+|   |   | - Ancestral-states-details.txt
+|   |   | - Changes List.txt
+|   |   | - Most Probable Sequences.txt
+|   |   | - site-1-ancestral-states.txt
+|   |   | - SWS1exons_ancestors.png
+|   |   | - SWS1exons_ancestors_numebrs.png
+|
+|
+| - LWS/
+|   |
+|   | - LWS Exon 1 amplicon/
+|   |   |
+|   |   | - Caption_tree.txt
+|   |   | - LWS Exon 1 amplicon.meg
+|   |   | - LWS Exon 1 amplicon_tree.png
+|   |   | - SEQ4.txt
+|   |   | - SEQ4_MODELANALYSIWS.pdf
+|   |   |  
+|   |   | - Sessions/
+|   |   |   |
+|   |   |   | - LWS Exon 1 amplicon.mdsx
+|   |   |   | - LWS Exon 1 amplicon_tree.mtsx
+|   |
+|   | - LWS_Exons/
+|   |   |
+
+ 
 ```
 
 La estructura que sigue este proyecto es la siguiente:  \
