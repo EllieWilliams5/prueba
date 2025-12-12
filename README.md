@@ -17,7 +17,12 @@ hhu
 
 ```
 Filogenias/
-| 
+|
+| - Docs/
+|   |
+|   | - Evolución_molecular_de_opsinas_visuales_en_Cetacea__análisis_filogenético_de_la_transición_terrestre_acuática.pdf (Reporte de nuestro trabajo)
+|   | - Exposición.pdf
+|
 | - Ancestors Analysis/  (Cuidado con estas, fueron todas hechas sobre el arbol de LWS)
 |   |
 |   | - LWS/
@@ -66,8 +71,51 @@ Filogenias/
 |   |
 |   | - LWS_Exons/
 |   |   |
-
- 
+|   |   | - Caption_tree.txt
+|   |   | - LWSExons_MODELANALYSIS.pdf
+|   |   | - LWSExons_tree.png
+|   |   | - SEQ3.meg
+|   |   | - SEQ3.txt
+|   |   |  
+|   |   | - Sessions/
+|   |   |   |
+|   |   |   | - Newick Export.nwk
+|   |   |   | - SEQ3.mdsx
+|   |   |   | - SEQ3_tree.mtsx
+|   |   |   | - TREE_Nedwick
+|
+|
+| - RH1/
+|   |
+|   | - RH1 Exons/
+|   |   |
+|   |   | - Caption_tree.txt
+|   |   | - RH1 Exons.meg
+|   |   | - RH1 Exons.txt
+|   |   | - RH1 Exons_MODELANALYSIS.pdf
+|   |   | - RH1 Exons_tree.png
+|   |   |  
+|   |   | - Sessions/
+|   |   |   |
+|   |   |   | - RH1 Exons.mdxs
+|   |   |   | - RH1 Exons_tree.mtsx
+|
+|
+| - SWS1/
+|   |
+|   | - SWS1_IntronesExones/
+|   |   |
+|   |   | - Caption_tree.txt
+|   |   | - SWS1 Introns + Exons.meg
+|   |   | - SWS1 Introns + Exons_MODELANALYSIS.pdf
+|   |   | - SWS1 Introns + Exons_NUCLEOTIDCOMPOSITION
+|   |   | - SWS1 Introns + Exons_treeanalysissummary
+|   |   | - SWS1_EXONSINTRONS_TREE.png
+|   |   |  
+|   |   | - Session/
+|   |   |   |
+|   |   |   | - SEQ1.mdxs
+|   |   |   | - SWS1_EXONSINTRONS_TREE.mtsx
 ```
 
 La estructura que sigue este proyecto es la siguiente:  \
