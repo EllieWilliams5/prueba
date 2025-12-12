@@ -4,6 +4,12 @@
 ## Integrantes \
 hhu
 
+## Genómica Computacional (2026 - 1)
+**Profesor :** Sergio Hernández López
+**Ayudante :** Rafael López Martínez
+**Ayud. Lab. :** Jazmín de Jesús Santillán Manjarrez
+
+
 La estructura que sigue este proyecto es la siguiente:  \
 
 |-- docs/ \
